@@ -20,3 +20,6 @@ This project is a bilingual chatbot designed to support users’ mental well-bei
 - 🧘 Quick reply buttons (Breathing, Music, Thoughts organization)
 - 🧑‍💻 Clean user interface with theme and layout controls
 - 💥 Error management and fallback messages
+
+##  Link to the prototype:
+https://huggingface.co/spaces/Imelda49/Project2_SEG3525_groupe14
